@@ -1,0 +1,7 @@
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterFunction: true
+  AfterControlStatement: Always
+  AfterStruct: true
+  AfterEnum: true
+  AfterCaseLabel: true
